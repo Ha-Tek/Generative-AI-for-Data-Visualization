@@ -1,4 +1,4 @@
-# Hands-on Lab: Generative AI for Data Visualization
+# Hands-on Project: Generative AI for Data Visualization
 
 How to use Generative AI to prepare a report for your data using charts and insights, in short Storytelling or Visualization
 Source: [Coursera](https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career/ungradedWidget/sB26L/hands-on-lab-generative-ai-for-data-visualization)
@@ -11,7 +11,7 @@ Source: [Coursera](https://www.coursera.org/learn/generative-ai-elevate-your-dat
 
 ### Lab Overview
 
-In this lab, you will learn how to use Generative AI to prepare a data report using charts and insights.
+In this lab, we will learn how to use Generative AI to prepare a data report using charts and insights.
 
 To begin, create an account on the [Zoho Analytics website](https://www.zoho.com/analytics/).
 
