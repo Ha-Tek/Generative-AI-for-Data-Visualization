@@ -1,7 +1,7 @@
 # Hands-on Project: Generative AI for Data Visualization
 
 How to use Generative AI to prepare a report for your data using charts and insights, in short Storytelling or Visualization
-Source: [Coursera](https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career/ungradedWidget/sB26L/hands-on-lab-generative-ai-for-data-visualization)
+Source: [Learn from Coursera](https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career/ungradedWidget/sB26L/hands-on-lab-generative-ai-for-data-visualization)
 
 ### Objectives:
 
