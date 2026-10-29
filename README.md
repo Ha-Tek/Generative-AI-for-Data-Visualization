@@ -9,9 +9,9 @@ Source: [Learn from Coursera](https://www.coursera.org/learn/generative-ai-eleva
 - Generate a report using Zia AI prompts.
 
 
-### Lab Overview
+###  Overview
 
-In this lab, we will learn how to use Generative AI to prepare a data report using charts and insights.
+In this project, we will learn how to use Generative AI to prepare a data report using charts and insights.
 
 To begin, create an account on the [Zoho Analytics website](https://www.zoho.com/analytics/).
 
